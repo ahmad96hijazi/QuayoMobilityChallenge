@@ -1,2 +1,2 @@
-# QuayoMobilityChallenge
-Quayo Mobility Android Code Challenge
+# Quayo Mobility
+Android Code Challenge
